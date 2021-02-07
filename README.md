@@ -1,1 +1,2 @@
-# Publy Digital Mailspring theme.
+# Publy Digital
+Tema para o Mailsprint da Publy.
